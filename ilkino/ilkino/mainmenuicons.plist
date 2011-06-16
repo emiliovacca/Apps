@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>icons</key>
+	<array>
+		<string>manifesto.png</string>
+		<string>cosekino.png</string>
+		<string>backstage.png</string>
+		<string>faccekino.png</string>
+		<string>lefoto.png</string>
+		<string>ilkino.png</string>
+		<string>lasala.png</string>
+		<string>partecipa.png</string>
+		<string>info.png</string>
+		<string>trailers.png</string>
+		<string>programmazione.png</string>
+		<string>bistrot.png</string>
+		<string>dovesiamo.png</string>
+		<string>social.png</string>
+	</array>
+</dict>
+</plist>

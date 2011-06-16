@@ -1,0 +1,9 @@
+<pre><code><html><head>
+<meta name = "viewport" content = "initial-scale = 1.0, user-scalable = no, width = 320"/></head>
+<body style="background:#000000;margin-top:0px;margin-left:0px">
+<div><object width="320" height="320">
+<param name="movie" value="http://www.youtube.com/v/%@&f=gdata_videos"></param>
+<param name="wmode" value="transparent"></param>
+<embed src="http://www.youtube.com/v/%@&f=gdata_videos"
+type="application/x-shockwave-flash" wmode="transparent" width="320" height="320"></embed>
+</object></div></body></html></pre></code>

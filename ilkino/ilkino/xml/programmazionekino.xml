@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programma>
+<giornata data="MAR 24 Maggio" title="Serata Speciale –  Omaggio a Francesco Scardamaglia">
+	<orari>
+		<dettaglio ora="19:00" title="Incontro"/>
+		<dettaglio ora="21:00" title="…Altrimenti ci arrabbiamo di Marcello Fondato (Ita, 1974. 97’)"/>
+		<dettaglio ora="23:00" title="Uno sceriffo extraterrestre… poco extra e molto terrestre di Michele Lupo (Ita, 1979. 95′)"/>		
+	</orari>	
+</giornata>
+<giornata data="MER 25 Maggio" title="">
+	<orari>
+		<dettaglio ora="19:00" title="Raunch girl di Giangiacomo De Stefano (Ita, 2011. 54’)"/>
+		<dettaglio ora="21:00" title="Raunch girl di Giangiacomo De Stefano (Ita, 2011. 54’)"/>
+		<dettaglio ora="23:00" title="Raunch girl di Giangiacomo De Stefano (Ita, 2011. 54’)"/>		
+	</orari>	
+</giornata>
+<giornata data="GIO 26 Maggio" title="">
+	<orari>
+		<dettaglio ora="19:00" title="Raunch girl di Giangiacomo De Stefano (Ita, 2011. 54’)"/>
+		<dettaglio ora="21:00" title="If I want to whistle, I whistle di Florin Serban (Rom, 2009. 94’)"/>
+		<dettaglio ora="23:00" title="If I want to whistle, I whistle di Florin Serban (Rom, 2009. 94’)"/>		
+	</orari>	
+</giornata>
+<giornata data="VEN 27 Maggio" title="">
+	<orari>
+		<dettaglio ora="19:00" title="If I want to whistle, I whistle di Florin Serban (Rom, 2009. 94’)"/>
+		<dettaglio ora="21:00" title="Quay Brothers: The Short Film di F.lli Quay (Gb, 1979/2003. 120’)
+		"/>
+		<dettaglio ora="23:00" title="Quay Brothers: The Short Film di F.lli Quay (Gb, 1979/2003. 120’)
+		"/>		
+	</orari>	
+</giornata>
+<giornata data="SAB 28 Maggio" title="">
+	<orari>
+		<dettaglio ora="19:00" title="Amici miei di Mario Monicelli (Ita, 1975. 140’)"/>
+		<dettaglio ora="21:00" title="L’ultima zingarata di Federico Micali e Yuri Parrettini (Ita, 2010. 70’)"/>
+		<dettaglio ora="23:00" title="Amici miei atto II di Mario Monicelli (Ita, 1982, 121’)"/>		
+	</orari>	
+</giornata>
+<giornata data="DOM 29 Maggio" title="">
+	<orari>
+		<dettaglio ora="19:00" title="Quay Brothers: The Short Film di F.lli Quay (Gb, 1979/2003. 120’)"/>
+		<dettaglio ora="21:00" title="Raunch girl di Giangiacomo De Stefano (Ita, 2011. 54’)"/>
+		<dettaglio ora="23:00" title="If I want to whistle, I whistle di Florin Serban (Rom, 2009. 94’)"/>		
+	</orari>	
+</giornata>
+<giornata data="LUN 30 Maggio" title="Chiuso">
+	<orari>
+	</orari>
+</giornata>
+</programma>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>menu</key>
+	<array>
+		<string>Manifesto</string>
+		<string>Cos&apos;é Kino</string>
+		<string>Backstage</string>
+		<string>Facce da Kino</string>
+		<string>Le foto</string>
+		<string>Il Kino</string>
+		<string>La sala</string>
+		<string>Partecipa</string>
+		<string>Info</string>
+		<string>Trailers</string>
+		<string>Programmazione</string>
+		<string>Il bistrot</string>
+		<string>Dove siamo</string>
+		<string>Social</string>
+	</array>
+</dict>
+</plist>
